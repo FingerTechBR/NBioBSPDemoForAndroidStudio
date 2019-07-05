@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\HAN\Desktop\NBioBSPDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_93d32737e0d2e330e660b990aa54a623bb1985fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAN\Desktop\NBioBSPDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cf11f4c13d7949d05286675482a707ef45d7a1e1">
+        <dex dex="C:\Users\HAN\Desktop\NBioBSPDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8c76686e64fc9cf2bbfe75dda556741a2cb1f1b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAN\Desktop\NBioBSPDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\HAN\Desktop\NBioBSPDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_927ab33ed6f44f74ddc019e3b1d302ef1da496c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAN\Desktop\NBioBSPDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a3253b9d4640bbc9d8138ed2ce3425c81b32b819">
+        <dex dex="C:\Users\HAN\Desktop\NBioBSPDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_40d89870cedc5ec77c269c80d56889518ecad5f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAN\Desktop\NBioBSPDemo\app\libs\AndroidNBioBSPJNI.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d6497e257c435b7656bdb45a5d1405355dd80bc7">
+        <dex dex="C:\Users\HAN\Desktop\NBioBSPDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\AndroidNBioBSPJNI_c8dd608748f0549299ce0099affbd256648f8b46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAN\Desktop\NBioBSPDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\HAN\Desktop\NBioBSPDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_0afe3a26ee8dfb4cd5a713f3a1def70bb86848be\classes.dex" />
+    </item>
+
+</items>

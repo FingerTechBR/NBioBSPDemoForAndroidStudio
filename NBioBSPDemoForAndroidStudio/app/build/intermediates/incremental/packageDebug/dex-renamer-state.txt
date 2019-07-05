@@ -1,0 +1,7 @@
+#Thu Nov 17 13:17:49 KST 2016
+base.0=C\:\\Users\\HAN\\Desktop\\NBioBSPDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8c76686e64fc9cf2bbfe75dda556741a2cb1f1b2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\HAN\\Desktop\\NBioBSPDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_40d89870cedc5ec77c269c80d56889518ecad5f3\\classes.dex
+base.1=C\:\\Users\\HAN\\Desktop\\NBioBSPDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_40d89870cedc5ec77c269c80d56889518ecad5f3
+file.0=C\:\\Users\\HAN\\Desktop\\NBioBSPDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8c76686e64fc9cf2bbfe75dda556741a2cb1f1b2\\classes.dex
